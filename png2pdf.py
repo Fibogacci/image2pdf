@@ -1,4 +1,5 @@
 # Author: Fibogacci, 20240501
+# github.com/Fibogacci
 # Licence: MIT
 # Script for merging PNG files into PDF
 
